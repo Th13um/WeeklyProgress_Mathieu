@@ -8,4 +8,4 @@ TODO
 ## Week (25th Feb - 4th March) ##
 TODO
 
- - [ ] Submit the project: "Build a portfolio site"
+ - [x] Submit the project: "Build a portfolio site"
