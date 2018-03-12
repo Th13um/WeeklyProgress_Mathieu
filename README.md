@@ -9,3 +9,8 @@ TODO
 TODO
 
  - [x] Submit the project: "Build a portfolio site"
+
+## Week (12th March - 19th March) ##
+TODO
+
+ - [ ] Complete the lessons up to: "Exercise: Pixel Art Maker"
