@@ -13,4 +13,4 @@ TODO
 ## Week (12th March - 19th March) ##
 TODO
 
- - [ ] Complete the lessons up to: "Exercise: Pixel Art Maker"
+ - [x] Complete the lessons up to: "Exercise: Pixel Art Maker"
