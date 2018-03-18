@@ -14,3 +14,8 @@ TODO
 TODO
 
  - [x] Complete the lessons up to: "Exercise: Pixel Art Maker"
+
+## Week (20th March - 27th March) ##
+TODO
+
+  - [ ] Submit the project: "Memory Game"
